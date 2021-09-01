@@ -1,0 +1,2176 @@
+
+Aberdeen
+Abilene
+Akron
+Albany
+Albuquerque
+Alexandria
+Allentown
+Amarillo
+Anaheim
+Anchorage
+Ann Arbor
+Antioch
+Apple Valley
+Appleton
+Arlington
+Arvada
+Asheville
+Athens
+Atlanta
+Atlantic City
+Augusta
+Aurora
+Austin
+Bakersfield
+Baltimore
+Barnstable
+Baton Rouge
+Beaumont
+Bel Air
+Bellevue
+Berkeley
+Bethlehem
+Billings
+Birmingham
+Bloomington
+Boise
+Boise City
+Bonita Springs
+Boston
+Boulder
+Bradenton
+Bremerton
+Bridgeport
+Brighton
+Brownsville
+Bryan
+Buffalo
+Burbank
+Burlington
+Cambridge
+Canton
+Cape Coral
+Carrollton
+Cary
+Cathedral City
+Cedar Rapids
+Champaign
+Chandler
+Charleston
+Charlotte
+Chattanooga
+Chesapeake
+Chicago
+Chula Vista
+Cincinnati
+Clarke County
+Clarksville
+Clearwater
+Cleveland
+College Station
+Colorado Springs
+Columbia
+Columbus
+Concord
+Coral Springs
+Corona
+Corpus Christi
+Costa Mesa
+Dallas
+Daly City
+Danbury
+Davenport
+Davidson County
+Dayton
+Daytona Beach
+Deltona
+Denton
+Denver
+Des Moines
+Detroit
+Downey
+Duluth
+Durham
+El Monte
+El Paso
+Elizabeth
+Elk Grove
+Elkhart
+Erie
+Escondido
+Eugene
+Evansville
+Fairfield
+Fargo
+Fayetteville
+Fitchburg
+Flint
+Fontana
+Fort Collins
+Fort Lauderdale
+Fort Smith
+Fort Walton Beach
+Fort Wayne
+Fort Worth
+Frederick
+Fremont
+Fresno
+Fullerton
+Gainesville
+Garden Grove
+Garland
+Gastonia
+Gilbert
+Glendale
+Grand Prairie
+Grand Rapids
+Grayslake
+Green Bay
+GreenBay
+Greensboro
+Greenville
+Gulfport-Biloxi
+Hagerstown
+Hampton
+Harlingen
+Harrisburg
+Hartford
+Havre de Grace
+Hayward
+Hemet
+Henderson
+Hesperia
+Hialeah
+Hickory
+High Point
+Hollywood
+Honolulu
+Houma
+Houston
+Howell
+Huntington
+Huntington Beach
+Huntsville
+Independence
+Indianapolis
+Inglewood
+Irvine
+Irving
+Jackson
+Jacksonville
+Jefferson
+Jersey City
+Johnson City
+Joliet
+Kailua
+Kalamazoo
+Kaneohe
+Kansas City
+Kennewick
+Kenosha
+Killeen
+Kissimmee
+Knoxville
+Lacey
+Lafayette
+Lake Charles
+Lakeland
+Lakewood
+Lancaster
+Lansing
+Laredo
+Las Cruces
+Las Vegas
+Layton
+Leominster
+Lewisville
+Lexington
+Lincoln
+Little Rock
+Long Beach
+Lorain
+Los Angeles
+Louisville
+Lowell
+Lubbock
+Macon
+Madison
+Manchester
+Marina
+Marysville
+McAllen
+McHenry
+Medford
+Melbourne
+Memphis
+Merced
+Mesa
+Mesquite
+Miami
+Milwaukee
+Minneapolis
+Miramar
+Mission Viejo
+Mobile
+Modesto
+Monroe
+Monterey
+Montgomery
+Moreno Valley
+Murfreesboro
+Murrieta
+Muskegon
+Myrtle Beach
+Naperville
+Naples
+Nashua
+Nashville
+New Bedford
+New Haven
+New London
+New Orleans
+New York
+New York City
+Newark
+Newburgh
+Newport News
+Norfolk
+Normal
+Norman
+North Charleston
+North Las Vegas
+North Port
+Norwalk
+Norwich
+Oakland
+Ocala
+Oceanside
+Odessa
+Ogden
+Oklahoma City
+Olathe
+Olympia
+Omaha
+Ontario
+Orange
+Orem
+Orlando
+Overland Park
+Oxnard
+Palm Bay
+Palm Springs
+Palmdale
+Panama City
+Pasadena
+Paterson
+Pembroke Pines
+Pensacola
+Peoria
+Philadelphia
+Phoenix
+Pittsburgh
+Plano
+Pomona
+Pompano Beach
+Port Arthur
+Port Orange
+Port Saint Lucie
+Port St. Lucie
+Portland
+Portsmouth
+Poughkeepsie
+Providence
+Provo
+Pueblo
+Punta Gorda
+Racine
+Raleigh
+Rancho Cucamonga
+Reading
+Redding
+Reno
+Richland
+Richmond
+Richmond County
+Riverside
+Roanoke
+Rochester
+Rockford
+Roseville
+Round Lake Beach
+Sacramento
+Saginaw
+Saint Louis
+Saint Paul
+Saint Petersburg
+Salem
+Salinas
+Salt Lake City
+San Antonio
+San Bernardino
+San Buenaventura
+San Diego
+San Francisco
+San Jose
+Santa Ana
+Santa Barbara
+Santa Clara
+Santa Clarita
+Santa Cruz
+Santa Maria
+Santa Rosa
+Sarasota
+Savannah
+Scottsdale
+Scranton
+Seaside
+Seattle
+Sebastian
+Shreveport
+Simi Valley
+Sioux City
+Sioux Falls
+South Bend
+South Lyon
+Spartanburg
+Spokane
+Springdale
+Springfield
+St. Louis
+St. Paul
+St. Petersburg
+Stamford
+Sterling Heights
+Stockton
+Sunnyvale
+Syracuse
+Tacoma
+Tallahassee
+Tampa
+Temecula
+Tempe
+Thornton
+Thousand Oaks
+Toledo
+Topeka
+Torrance
+Trenton
+Tucson
+Tulsa
+Tuscaloosa
+Tyler
+Utica
+Vallejo
+Vancouver
+Vero Beach
+Victorville
+Virginia Beach
+Visalia
+Waco
+Warren
+Washington
+Waterbury
+Waterloo
+West Covina
+West Valley City
+Westminster
+Wichita
+Wilmington
+Winston
+Winter Haven
+Worcester
+Yakima
+Yonkers
+York
+Youngstown
+Aberdeen
+Abilene
+Akron
+Albany
+Albuquerque
+Alexandria
+Allentown
+Amarillo
+Anaheim
+Anchorage
+Ann Arbor
+Antioch
+Apple Valley
+Appleton
+Arlington
+Arvada
+Asheville
+Athens
+Atlanta
+Atlantic City
+Augusta
+Aurora
+Austin
+Bakersfield
+Baltimore
+Barnstable
+Baton Rouge
+Beaumont
+Bel Air
+Bellevue
+Berkeley
+Bethlehem
+Billings
+Birmingham
+Bloomington
+Boise
+Boise City
+Bonita Springs
+Boston
+Boulder
+Bradenton
+Bremerton
+Bridgeport
+Brighton
+Brownsville
+Bryan
+Buffalo
+Burbank
+Burlington
+Cambridge
+Canton
+Cape Coral
+Carrollton
+Cary
+Cathedral City
+Cedar Rapids
+Champaign
+Chandler
+Charleston
+Charlotte
+Chattanooga
+Chesapeake
+Chicago
+Chula Vista
+Cincinnati
+Clarke County
+Clarksville
+Clearwater
+Cleveland
+College Station
+Colorado Springs
+Columbia
+Columbus
+Concord
+Coral Springs
+Corona
+Corpus Christi
+Costa Mesa
+Dallas
+Daly City
+Danbury
+Davenport
+Davidson County
+Dayton
+Daytona Beach
+Deltona
+Denton
+Denver
+Des Moines
+Detroit
+Downey
+Duluth
+Durham
+El Monte
+El Paso
+Elizabeth
+Elk Grove
+Elkhart
+Erie
+Escondido
+Eugene
+Evansville
+Fairfield
+Fargo
+Fayetteville
+Fitchburg
+Flint
+Fontana
+Fort Collins
+Fort Lauderdale
+Fort Smith
+Fort Walton Beach
+Fort Wayne
+Fort Worth
+Frederick
+Fremont
+Fresno
+Fullerton
+Gainesville
+Garden Grove
+Garland
+Gastonia
+Gilbert
+Glendale
+Grand Prairie
+Grand Rapids
+Grayslake
+Green Bay
+GreenBay
+Greensboro
+Greenville
+Gulfport-Biloxi
+Hagerstown
+Hampton
+Harlingen
+Harrisburg
+Hartford
+Havre de Grace
+Hayward
+Hemet
+Henderson
+Hesperia
+Hialeah
+Hickory
+High Point
+Hollywood
+Honolulu
+Houma
+Houston
+Howell
+Huntington
+Huntington Beach
+Huntsville
+Independence
+Indianapolis
+Inglewood
+Irvine
+Irving
+Jackson
+Jacksonville
+Jefferson
+Jersey City
+Johnson City
+Joliet
+Kailua
+Kalamazoo
+Kaneohe
+Kansas City
+Kennewick
+Kenosha
+Killeen
+Kissimmee
+Knoxville
+Lacey
+Lafayette
+Lake Charles
+Lakeland
+Lakewood
+Lancaster
+Lansing
+Laredo
+Las Cruces
+Las Vegas
+Layton
+Leominster
+Lewisville
+Lexington
+Lincoln
+Little Rock
+Long Beach
+Lorain
+Los Angeles
+Louisville
+Lowell
+Lubbock
+Macon
+Madison
+Manchester
+Marina
+Marysville
+McAllen
+McHenry
+Medford
+Melbourne
+Memphis
+Merced
+Mesa
+Mesquite
+Miami
+Milwaukee
+Minneapolis
+Miramar
+Mission Viejo
+Mobile
+Modesto
+Monroe
+Monterey
+Montgomery
+Moreno Valley
+Murfreesboro
+Murrieta
+Muskegon
+Myrtle Beach
+Naperville
+Naples
+Nashua
+Nashville
+New Bedford
+New Haven
+New London
+New Orleans
+New York
+New York City
+Newark
+Newburgh
+Newport News
+Norfolk
+Normal
+Norman
+North Charleston
+North Las Vegas
+North Port
+Norwalk
+Norwich
+Oakland
+Ocala
+Oceanside
+Odessa
+Ogden
+Oklahoma City
+Olathe
+Olympia
+Omaha
+Ontario
+Orange
+Orem
+Orlando
+Overland Park
+Oxnard
+Palm Bay
+Palm Springs
+Palmdale
+Panama City
+Pasadena
+Paterson
+Pembroke Pines
+Pensacola
+Peoria
+Philadelphia
+Phoenix
+Pittsburgh
+Plano
+Pomona
+Pompano Beach
+Port Arthur
+Port Orange
+Port Saint Lucie
+Port St. Lucie
+Portland
+Portsmouth
+Poughkeepsie
+Providence
+Provo
+Pueblo
+Punta Gorda
+Racine
+Raleigh
+Rancho Cucamonga
+Reading
+Redding
+Reno
+Richland
+Richmond
+Richmond County
+Riverside
+Roanoke
+Rochester
+Rockford
+Roseville
+Round Lake Beach
+Sacramento
+Saginaw
+Saint Louis
+Saint Paul
+Saint Petersburg
+Salem
+Salinas
+Salt Lake City
+San Antonio
+San Bernardino
+San Buenaventura
+San Diego
+San Francisco
+San Jose
+Santa Ana
+Santa Barbara
+Santa Clara
+Santa Clarita
+Santa Cruz
+Santa Maria
+Santa Rosa
+Sarasota
+Savannah
+Scottsdale
+Scranton
+Seaside
+Seattle
+Sebastian
+Shreveport
+Simi Valley
+Sioux City
+Sioux Falls
+South Bend
+South Lyon
+Spartanburg
+Spokane
+Springdale
+Springfield
+St. Louis
+St. Paul
+St. Petersburg
+Stamford
+Sterling Heights
+Stockton
+Sunnyvale
+Syracuse
+Tacoma
+Tallahassee
+Tampa
+Temecula
+Tempe
+Thornton
+Thousand Oaks
+Toledo
+Topeka
+Torrance
+Trenton
+Tucson
+Tulsa
+Tuscaloosa
+Tyler
+Utica
+Vallejo
+Vancouver
+Vero Beach
+Victorville
+Virginia Beach
+Visalia
+Waco
+Warren
+Washington
+Waterbury
+Waterloo
+West Covina
+West Valley City
+Westminster
+Wichita
+Wilmington
+Winston
+Winter Haven
+Worcester
+Yakima
+Yonkers
+York
+Youngstown
+Afghanistan
+Albania
+Algeria
+Andorra
+Angola
+Antigua & Deps
+Argentina
+Armenia
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bhutan
+Bolivia
+Bosnia Herzegovina
+Botswana
+Brazil
+Brunei
+Bulgaria
+Burkina
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Central African Rep
+Chad
+Chile
+China
+Colombia
+Comoros
+Congo
+Congo {Democratic Rep}
+Costa Rica
+Croatia
+Cuba
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+East Timor
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Fiji
+Finland
+France
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland {Republic}
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Korea North
+Korea South
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Morocco
+Mozambique
+Myanmar, {Burma}
+Namibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Norway
+Oman
+Pakistan
+Palau
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Poland
+Portugal
+Qatar
+Romania
+Russia
+Rwanda
+St Kitts & Nevis
+St Lucia
+Saint Vincent & the Grenadines
+Samoa
+San Marino
+Sao Tome & Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Togo
+Tonga
+Trinidad & Tobago
+Tunisia
+Turkey
+Turkmenistan
+Tuvalu
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Yemen
+Zambia
+Zimbabwe
+asia
+London
+spain
+Tunisia
+india
+Paraguay
+Uruguay
+Norway
+london
+england
+Andhra Pradesh
+Adoni
+Amaravati
+Anantapur
+Chandragiri
+Chittoor
+Dowlaiswaram
+Eluru
+Guntur
+Kadapa
+Kakinada
+Kurnool
+Machilipatnam
+Nagarjunakoṇḍa
+Rajahmundry
+Srikakulam
+Tirupati
+Vijayawada
+Visakhapatnam
+Vizianagaram
+Yemmiganur
+Arunachal Pradesh
+Itanagar
+Assam
+Dhuburi
+Dibrugarh
+Dispur
+Guwahati
+Jorhat
+Nagaon
+Sibsagar
+Silchar
+Tezpur
+Tinsukia
+Bihar
+Ara
+Baruni
+Begusarai
+Bettiah
+Bhagalpur
+Bihar Sharif
+Bodh Gaya
+Buxar
+Chapra
+Darbhanga
+Dehri
+Dinapur Nizamat
+Gaya
+Hajipur
+Jamalpur
+Katihar
+Madhubani
+Motihari
+Munger
+Muzaffarpur
+Patna
+Purnia
+Pusa
+Saharsa
+Samastipur
+Sasaram
+Sitamarhi
+Siwan
+Chandigarh
+Chhattisgarh
+Ambikapur
+Bhilai
+Bilaspur
+Dhamtari
+Durg
+Jagdalpur
+Raipur
+Rajnandgaon
+Dadra and Nagar Haveli (union territory)
+Silvassa
+Daman and Diu (union territory)
+Daman
+Diu
+Delhi (national capital territory)
+Delhi
+New Delhi
+Goa
+Madgaon
+Panaji
+Gujarat
+Ahmadabad
+Amreli
+Bharuch
+Bhavnagar
+Bhuj
+Dwarka
+Gandhinagar
+Godhra
+Jamnagar
+Junagadh
+Kandla
+Khambhat
+Kheda
+Mahesana
+Morvi
+Nadiad
+Navsari
+Okha
+Palanpur
+Patan
+Porbandar
+Rajkot
+Surat
+Surendranagar
+Valsad
+Veraval
+Haryana
+Ambala
+Bhiwani
+Chandigarh
+Faridabad
+Firozpur Jhirka
+Gurgaon
+Hansi
+Hisar
+Jind
+Kaithal
+Karnal
+Kurukshetra
+Panipat
+Pehowa
+Rewari
+Rohtak
+Sirsa
+Sonipat
+Himachal Pradesh
+Bilaspur
+Chamba
+Dalhousie
+Dharmshala
+Hamirpur
+Kangra
+Kullu
+Mandi
+Nahan
+Shimla
+Una
+Jammu and Kashmir
+Anantnag
+Baramula
+Doda
+Gulmarg
+Jammu
+Kathua
+Punch
+Rajauri
+Srinagar
+Udhampur
+Jharkhand
+Bokaro
+Chaibasa
+Deoghar
+Dhanbad
+Dumka
+Giridih
+Hazaribag
+Jamshedpur
+Jharia
+Rajmahal
+Ranchi
+Saraikela
+Karnataka
+Badami
+Ballari
+Bangalore
+Belgavi
+Bhadravati
+Bidar
+Chikkamagaluru
+Chitradurga
+Davangere
+Halebid
+Hassan
+Hubballi-Dharwad
+Kalaburagi
+Kolar
+Madikeri
+Mandya
+Mangaluru
+Mysuru
+Raichur
+Shivamogga
+Shravanabelagola
+Shrirangapattana
+Tumkuru
+Kerala
+Alappuzha
+Badagara
+Idukki
+Kannur
+Kochi
+Kollam
+Kottayam
+Kozhikode
+Mattancheri
+Palakkad
+Thalassery
+Thiruvananthapuram
+Thrissur
+Ladakh (union territory)
+Kargil
+Leh
+Madhya Pradesh
+Balaghat
+Barwani
+Betul
+Bharhut
+Bhind
+Bhojpur
+Bhopal
+Burhanpur
+Chhatarpur
+Chhindwara
+Damoh
+Datia
+Dewas
+Dhar
+Guna
+Gwalior
+Hoshangabad
+Indore
+Itarsi
+Jabalpur
+Jhabua
+Khajuraho
+Khandwa
+Khargon
+Maheshwar
+Mandla
+Mandsaur
+Mhow
+Morena
+Murwara
+Narsimhapur
+Narsinghgarh
+Narwar
+Neemuch
+Nowgong
+Orchha
+Panna
+Raisen
+Rajgarh
+Ratlam
+Rewa
+Sagar
+Sarangpur
+Satna
+Sehore
+Seoni
+Shahdol
+Shajapur
+Sheopur
+Shivpuri
+Ujjain
+Vidisha
+Maharashtra
+Ahmadnagar
+Akola
+Amravati
+Aurangabad
+Bhandara
+Bhusawal
+Bid
+Buldana
+Chandrapur
+Daulatabad
+Dhule
+Jalgaon
+Kalyan
+Karli
+Kolhapur
+Mahabaleshwar
+Malegaon
+Matheran
+Mumbai
+Nagpur
+Nanded
+Nashik
+Osmanabad
+Pandharpur
+Parbhani
+Pune
+Ratnagiri
+Sangli
+Satara
+Sevagram
+Solapur
+Thane
+Ulhasnagar
+Vasai-Virar
+Wardha
+Yavatmal
+Manipur
+Imphal
+Meghalaya
+Cherrapunji
+Shillong
+Mizoram
+Aizawl
+Lunglei
+Nagaland
+Kohima
+Mon
+Phek
+Wokha
+Zunheboto
+Odisha
+Balangir
+Baleshwar
+Baripada
+Bhubaneshwar
+Brahmapur
+Cuttack
+Dhenkanal
+Keonjhar
+Konark
+Koraput
+Paradip
+Phulabani
+Puri
+Sambalpur
+Udayagiri
+Puducherry (union territory)
+Karaikal
+Mahe
+Puducherry
+Yanam
+Punjab
+Amritsar
+Batala
+Chandigarh
+Faridkot
+Firozpur
+Gurdaspur
+Hoshiarpur
+Jalandhar
+Kapurthala
+Ludhiana
+Nabha
+Patiala
+Rupnagar
+Sangrur
+Rajasthan
+Abu
+Ajmer
+Alwar
+Amer
+Barmer
+Beawar
+Bharatpur
+Bhilwara
+Bikaner
+Bundi
+Chittaurgarh
+Churu
+Dhaulpur
+Dungarpur
+Ganganagar
+Hanumangarh
+Jaipur
+Jaisalmer
+Jalor
+Jhalawar
+Jhunjhunu
+Jodhpur
+Kishangarh
+Kota
+Merta
+Nagaur
+Nathdwara
+Pali
+Phalodi
+Pushkar
+Sawai Madhopur
+Shahpura
+Sikar
+Sirohi
+Tonk
+Udaipur
+Sikkim
+Gangtok
+Gyalsing
+Lachung
+Mangan
+Tamil Nadu
+Arcot
+Chengalpattu
+Chennai
+Chidambaram
+Coimbatore
+Cuddalore
+Dharmapuri
+Dindigul
+Erode
+Kanchipuram
+Kanniyakumari
+Kodaikanal
+Kumbakonam
+Madurai
+Mamallapuram
+Nagappattinam
+Nagercoil
+Palayankottai
+Pudukkottai
+Rajapalaiyam
+Ramanathapuram
+Salem
+Thanjavur
+Tiruchchirappalli
+Tirunelveli
+Tiruppur
+Tuticorin
+Udhagamandalam
+Vellore
+Telangana
+Hyderabad
+Karimnagar
+Khammam
+Mahbubnagar
+Nizamabad
+Sangareddi
+Warangal
+Tripura
+Agartala
+Uttar Pradesh
+Agra
+Aligarh
+Amroha
+Ayodhya
+Azamgarh
+Bahraich
+Ballia
+Banda
+Bara Banki
+Bareilly
+Basti
+Bijnor
+Bithur
+Budaun
+Bulandshahr
+Deoria
+Etah
+Etawah
+Faizabad
+Farrukhabad
+Fatehgarh
+Fatehpur
+Fatehpur Sikri
+Ghaziabad
+Ghazipur
+Gonda
+Gorakhpur
+Hamirpur
+Hardoi
+Hathras
+Jalaun
+Jaunpur
+Jhansi
+Kannauj
+Kanpur
+Lakhimpur
+Lalitpur
+Lucknow
+Mainpuri
+Mathura
+Meerut
+Mirzapur
+Vindhyachal
+Moradabad
+Muzaffarnagar
+Partapgarh
+Pilibhit
+Prayagraj
+Rae Bareli
+Rampur
+Saharanpur
+Sambhal
+Shahjahanpur
+Sitapur
+Sultanpur
+Tehri
+Varanasi
+Uttarakhand
+Almora
+Dehra Dun
+Haridwar
+Mussoorie
+Nainital
+Pithoragarh
+West Bengal
+Alipore
+Alipur Duar
+Asansol
+Baharampur
+Bally
+Balurghat
+Bankura
+Baranagar
+Barasat
+Barrackpore
+Basirhat
+Bhatpara
+Bishnupur
+Budge Budge
+Burdwan
+Chandernagore
+Darjiling
+Diamond Harbour
+Dum Dum
+Durgapur
+Halisahar
+Haora
+Hugli
+Ingraj Bazar
+Jalpaiguri
+Kalimpong
+Kamarhati
+Kanchrapara
+Kharagpur
+Koch Bihar
+Kolkata
+Krishnanagar
+Malda
+Midnapore
+Murshidabad
+Navadwip
+Palashi
+Panihati
+Purulia
+Raiganj
+Santipur
+Shantiniketan
+Shrirampur
+Siliguri
+Siuri
+Tamluk
+Titagarh
+kuala lampur
+Singapore
+Afghanistan
+Albania
+Algeria
+Andorra
+Angola
+Antigua and Barbuda
+Argentina
+Armenia
+Australia
+Austria
+Azerbaijan
+The Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Brazil
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Comoros
+Congo, Republic of the
+Congo, Democratic Republic of the
+Costa Rica
+Cote d'Ivoire
+Croatia
+Cuba
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+East Timor (Timor-Leste)
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Fiji
+Finland
+France
+Gabon
+The Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Korea, North
+Korea, South
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia, Federated States of
+Moldova
+Monaco
+Mongolia
+Montenegro
+Morocco
+Mozambique
+Myanmar 
+Burma
+Namibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Norway
+Oman
+Pakistan
+Palau
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Poland
+Portugal
+Qatar
+Romania
+Russia
+Rwanda
+Saint Kitts and Nevis
+Saint Lucia
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Tuvalu
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States of America
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City (Holy See)
+Venezuela
+Vietnam
+Yemen
+Zambia
+Zimbabwe
+Russia
+Kabul
+Tirana
+Algiers
+Andorra la Vella
+Luanda
+Saint John’s
+Buenos Aires
+Yerevan
+Canberra
+Vienna
+Baku
+Nassau
+Manama
+Dhaka
+Bridgetown
+Minsk
+Brussels
+Belmopan
+Porto-Novo
+Bhutan  Thimphu
+Bolivia 
+La Paz, Sucre
+Bosnia and Herzegovina 
+Sarajevo
+Botswana 
+Gaborone
+Brazil 
+Brasilia
+Brunei 
+Bandar Seri Begawan
+Bulgaria  Sofia
+Burkina Faso 
+Ouagadougou
+Burundi 
+Bujumbura
+Cambodia 
+Phnom Penh
+Cameroon  
+Yaounde
+Canada 
+Ottawa
+Cape Verde  Praia
+Central African Republic 
+Bangui
+Chad 
+N’Djamena
+Chile 
+Santiago
+China 
+Beijing
+Colombia 
+Bogota
+Comoros 
+Moroni
+Congo 
+Brazzaville
+Congo
+Kinshasa
+Costa Rica 
+San Jose
+Cote d’Ivoire 
+Yamoussoukro
+Croatia 
+Zagreb
+Cuba 
+Havana
+Cyprus 
+Nicosia
+Czech Republic 
+Prague
+Denmark  
+Copenhagen
+Djibouti 
+Djibouti
+Dominica 
+Roseau
+Dominican Republic 
+Santo Domingo
+East Timor 
+Dili
+Ecuador  Quito
+Egypt 
+Cairo
+El Salvador 
+San Salvador
+Equatorial Guinea 
+Malabo
+Eritrea  Asmara
+Estonia 
+Tallinn
+Ethiopia 
+Addis Ababa
+Fiji 
+Suva
+Finland 
+Helsinki
+France 
+Paris
+Gabon 
+Libreville
+The Gambia
+Banjul
+Georgia 
+Tbilisi
+Germany 
+Berlin
+Ghana 
+Accra
+Greece 
+Athens
+Grenada 
+Saint George’s
+Guatemala 
+Guatemala City
+Guinea 
+Conakry
+Guinea-Bissau 
+Bissau
+Guyana 
+Georgetown
+Haiti 
+Port-au-Prince
+Honduras
+Tegucigalpa
+Hungary 
+Budapest
+Iceland
+Reykjavik
+India 
+New Delhi
+Indonesia 
+Jakarta
+Iran 
+Tehran
+Iraq 
+Baghdad
+Ireland 
+Dublin
+Jerusalem
+Rome
+Kingston
+Tokyo
+Amman
+Astana
+Nairobi
+Tarawa Atoll
+Korea 
+North
+Pyongyang
+Korea
+South
+Seoul
+Kosovo
+Pristina
+Kuwait
+Kuwait City
+Kyrgyzstan
+Bishkek
+Laos
+Vientiane
+Latvia 
+Riga
+Lebanon
+Beirut
+Lesotho
+Maseru
+Liberia
+Monrovia
+Libya
+Tripoli
+Liechtenstein 
+Vaduz
+Lithuania
+Vilnius
+Luxembourg
+Luxembourg
+Macedonia
+Skopje
+Madagascar
+Antananarivo
+Malawi
+Lilongwe
+Malaysia
+Kuala Lumpur
+Maldives
+Male
+Mali
+Bamako
+Malta
+Valletta
+Marshall Islands
+Majuro
+Mauritania
+Nouakchott
+Mauritius
+Port Louis
+Mexico
+Mexico City
+Micronesia
+Federated States of Palikir
+Moldova
+Chisinau
+Monaco
+Monaco
+Mongolia
+Ulaanbaatar
+Montenegro
+Podgorica
+Morocco
+Rabat
+Mozambique
+Maputo
+Myanmar
+Naypyidaw
+Namibia
+Windhoek
+Nauru
+Yaren District
+Nepal
+Kathmandu
+Netherlands
+Amsterdam
+New Zealand
+Wellington
+Nicaragua 
+Managua
+Niger 
+Niamey
+Nigeria 
+Abuja
+Norway
+Oslo
+Oman 
+Muscat
+Pakistan
+Islamabad
+Palau
+Melekeok
+Panama 
+Panama City
+Papua New Guinea
+Port Moresby
+Paraguay
+Asuncion
+Peru
+Lima
+Philippines
+Manila
+Poland
+Warsaw
+Portugal 
+Lisbon
+Qatar 
+Doha
+Romania
+Bucharest
+Russia 
+Moscow
+Rwanda
+Kigali
+Saint Kitts and Nevis
+Basseterre
+Saint Lucia 
+Castries
+Saint Vincent and the Grenadines
+Kingstown
+Samoa 
+Apia
+San Marino 
+San Marino
+Sao Tome and Principe 
+Sao Tome
+Saudi Arabia 
+Riyadh
+Senegal 
+Dakar
+Serbia 
+Belgrade
+Seychelles 
+Victoria
+Sierra Leone 
+Freetown
+Singapore 
+Singapore
+Slovakia 
+Bratislava
+Slovenia 
+Ljubljana
+Solomon Islands 
+Honiara
+Somalia 
+Mogadishu
+South Africa 
+Pretoria
+Cape Town
+Bloemfontein
+South Sudan 
+Juba
+Spain 
+Madrid
+Sri Lanka
+Colombo
+Sri Jayewardenepura Kotte
+Sudan
+Khartoum
+Suriname
+Paramaribo
+Swaziland
+Mbabane
+Sweden
+Stockholm
+Switzerland
+Bern
+Syria
+Damascus
+Taiwan
+Taipei
+Tajikistan 
+Dushanbe
+Tanzania
+Dodoma
+Bangkok
+Lome
+Nuku’alofa
+Port-of-Spain
+Tunis
+Ankara
+Ashgabat
+Funafuti
+Hong Kong
+Shanghai
+Yorkshire
+Laddakh
+Lienchesten
+Kampala
+Kyiv
+Abu Dhabi
+London
+Washington D.C.
+Montevideo
+Tashkent
+Port-Vila
+Vatican City
+Venezuela 
+Caracas
+Vietnam
+Hanoi
+Yemen 
+Sanaa
+Zambia
+Lusaka
+Zimbabwe 
+Harare
+Asia
+England
+Ohio
+Montreal
+Geneva
+Yadgir 	Yadur 	
+Yamuna Nagar 	
+Yarlagadda 	
+Yarravaram 	
+Yavat 	
+Yavatmal
+Yawal 	
+Yedapadavu 	
+Yedashi 	
+Yedsi
+Yedthady 	
+Yedthare 	
+Yedurlanka 	
+Yelamanchili
+Yelburga 	
+Yellamanchili 	
+Yellandu 	
+Yellapur
+Yemmiganur 	
+Yenne Hole Marne 	
+Yeola 	
+Yeraguntla
+Yermal 	
+Yermal 
+Thenka 	
+Yermala 	
+Yernagudem
+Yerrabalem 	
+Yerragondapalem 	
+Yerraguntla 	
+Yerravaram
+Yol
+Yajali 	
+Yallapura
+Yamunotri 
+Yanam 	
+Yaragatti
+Xi'an	
+Xiamen	
+Xinyang	
+Xuchang	
+Xianyang	
+Xining	
+Xinxiang	
+Xiangtan	
+Xingtai	
+Xiangyang	
+Xalapa de Enriquez	
+Xochimilco	
+Xinpu	
+Xico	
+Xinyuan	
+Xiuying	
+Xiantao	
+Xintai	
+Xinhui	
+Xianning	
+Xindi	
+Xiaogan	
+Xinzhou	
+Xinji	
+Xuanzhou	
+Xai-Xai	
+Xichang	
+Xiazhen	
+Xiulin	
+Xilin Hot	
+Xinghua	
+Xingcheng	
+Xinshi	
+Xinyi	
+Xishan	
+Xinyu	
+Xiaoshan	
+Ximei	
+Xihe	
+Xiangxiang	
+Xiannu	
+Xucheng	
+Xindian	
+Xiongzhou	
+Xinzhou	
+Xinmin	
+Xianshuigu	
+Xinzhi	
+Xiuyan	
+Xiaoshi	
+Xiaolingwei	
+Xiangcheng Chengguanzhen	
+Xincheng	
+Xunchang	
+Xiazhuang
+Xianju	
+Xifeng
+Xixiang	
+Xiaoweizhai	
+Xinglongshan	
+Xinqing	
+Xankandi	
