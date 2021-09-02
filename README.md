@@ -21,13 +21,21 @@ A CLI-based game where a player has to guess the name of the place before the ti
 
 -> Repetition is allowed.
 
--> The place should exist (more places could be added in 'places.txt' before playing the game) and be of correct spelling.
+-> The place should exist (both in reality and in 'places.txt' file) and be of correct spelling.
 
 ![mistakes](https://user-images.githubusercontent.com/89451392/131788702-5214ba4b-0873-4244-a121-18e305ded026.png)
 
+-> More places could be added in 'places.txt' before playing the game
 
 -> The result is displayed in the form of efficiency depending upon the number of successful rounds the player had in a game.
 
 ![100 %](https://user-images.githubusercontent.com/89451392/131788802-e8c56279-3fd0-4dbd-8b56-04ceed73f37a.png)
+
+![4](https://user-images.githubusercontent.com/89451392/131790986-eddcf721-6342-42a4-8119-824b5b08a0d0.png)
+
+
+-> It's all about your efficiency, knowledge, rapid thinking, and typing speed.
+
+-> Good luck and have fun!
 
 
