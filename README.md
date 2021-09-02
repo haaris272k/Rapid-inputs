@@ -10,7 +10,7 @@ A CLI-based game where a player has to guess the name of the place before the ti
 -> The main goal is to give input as a name of any place starting with the same alphabet assigned to the player.
 
 -> CPU will also choose a place starting with the ending letter of the guess made by the player.
-   (CPU will always be 100% efficent)
+   (CPU will always be 100% efficient)
 
 -> The player should give an input before the timer goes off else the game will get over and no points will be awarded.
 
