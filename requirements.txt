@@ -1,0 +1,9 @@
+# requirements #
+
+-> python3 or greater
+
+-> inputimeout==1.0.4
+   
+   pip install inputimeout
+ 
+   
