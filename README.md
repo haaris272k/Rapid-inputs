@@ -1,5 +1,5 @@
 # Rapid-inputs
-An interesting CLI-based game where a player has to guess the name of the place before the timer goes off.
+An interesting game where a player has to guess the name of the place before the timer goes off.
 
 # RULES #
 
