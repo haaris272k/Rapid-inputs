@@ -1,41 +1,30 @@
 # Rapid-inputs
-A CLI-based game where a player has to guess the name of the place before the timer goes off.
+An interesting CLI-based game where a player has to guess the name of the place before the timer goes off.
 
 # RULES #
 
--> A player can choose as many rounds as he wants to play in a game.
+Go through Rules.md for a better understanding of the game.
 
--> Player will be assigned to a random alphabet.
+# Usage
 
--> The main goal is to give input as a name of any place starting with the same alphabet assigned to the player.
-
--> CPU will also choose a place starting with the ending letter of the guess made by the player.
-   (CPU will always be 100% efficient)
-
--> The player should give an input before the timer goes off else the game will get over and no points will be awarded.
-
-![game over](https://user-images.githubusercontent.com/89451392/131789419-2a7f445a-aee1-41c9-87fe-d7ca65db3c6d.png)
+-> All the steps will be same for both windows and linux.
 
 
--> The first character of the input should be in capital or the entire word should be in uppercase.
-
--> Repetition is allowed.
-
--> The place should exist (both in reality and in 'places.txt' file) and be of correct spelling.
-
-![mistakes](https://user-images.githubusercontent.com/89451392/131788702-5214ba4b-0873-4244-a121-18e305ded026.png)
-
--> More places could be added in 'places.txt' before playing the game
-
--> The result is displayed in the form of efficiency depending upon the number of successful rounds the player had in a game.
-
-![100 %](https://user-images.githubusercontent.com/89451392/131788802-e8c56279-3fd0-4dbd-8b56-04ceed73f37a.png)
-
-![4](https://user-images.githubusercontent.com/89451392/131790986-eddcf721-6342-42a4-8119-824b5b08a0d0.png)
+-> Read requirements.txt for prerequisites.
 
 
--> It's all about your efficiency, knowledge, rapid thinking, and typing speed.
-
--> Good luck and have fun!
+-> Open CLI, choose a directory as per your choice and follow these steps.
 
 
+      git clone https://github.com/haaris272k/Rapid-inputs.git
+      cd Rapid-inputs
+      python game.py
+
+
+-> Use powershell in the case of windows for the ease.
+
+
+-> You can also download the zip file and work accordingly.
+
+
+-> if 'python game.py' does'nt work use 'python3 game.py'
